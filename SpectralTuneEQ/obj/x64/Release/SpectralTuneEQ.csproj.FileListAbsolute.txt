@@ -1,0 +1,10 @@
+C:\Users\a1772\source\repos\SpectralTuneEQ\SpectralTuneEQ\obj\x64\Release\SpectralTuneEQ.csproj.AssemblyReference.cache
+C:\Users\a1772\source\repos\SpectralTuneEQ\SpectralTuneEQ\obj\x64\Release\SpectralTuneEQ.Form1.resources
+C:\Users\a1772\source\repos\SpectralTuneEQ\SpectralTuneEQ\obj\x64\Release\SpectralTuneEQ.Properties.Resources.resources
+C:\Users\a1772\source\repos\SpectralTuneEQ\SpectralTuneEQ\obj\x64\Release\SpectralTuneEQ.csproj.GenerateResource.cache
+C:\Users\a1772\source\repos\SpectralTuneEQ\SpectralTuneEQ\obj\x64\Release\SpectralTuneEQ.csproj.CoreCompileInputs.cache
+C:\Users\a1772\source\repos\SpectralTuneEQ\SpectralTuneEQ\bin\x64\Release\SpectralTuneEQ.exe.config
+C:\Users\a1772\source\repos\SpectralTuneEQ\SpectralTuneEQ\bin\x64\Release\SpectralTuneEQ.exe
+C:\Users\a1772\source\repos\SpectralTuneEQ\SpectralTuneEQ\bin\x64\Release\SpectralTuneEQ.pdb
+C:\Users\a1772\source\repos\SpectralTuneEQ\SpectralTuneEQ\obj\x64\Release\SpectralTuneEQ.exe
+C:\Users\a1772\source\repos\SpectralTuneEQ\SpectralTuneEQ\obj\x64\Release\SpectralTuneEQ.pdb
