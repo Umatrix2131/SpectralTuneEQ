@@ -242,6 +242,7 @@ namespace SpectralTuneEQ
             Marshal.FreeHGlobal(RX_PTR);
             Marshal.FreeHGlobal(LY_PTR);
             Marshal.FreeHGlobal(RY_PTR);
+            Marshal.FreeHGlobal(Bezier_PTR);
             return (Local_L_X, Local_R_X);
         }
         public static byte[] EqualizeAudioData(byte[] data, double BitsPerSampl, double SampleRate)
